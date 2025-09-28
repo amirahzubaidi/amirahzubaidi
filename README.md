@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>Web Development and Machine Learning.<br><br>💬 Ask me about<br>My CS studies and coding progress.<br><br>⚡ Fun fact<br>I dream of combining tech with aviation someday!
+🌱 I’m currently learning<br>Web Development and Artificial Intelligent.<br><br>💬 Ask me about<br>My CS studies and coding progress.<br><br>⚡ Fun fact<br>I dream of combining tech with aviation someday!
 
 
 ## 🌐 Socials:
